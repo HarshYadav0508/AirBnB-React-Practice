@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: 'Poppins' ,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+nav {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  padding: 0px 30px;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.main-header {
+  margin-bottom: 0;
+}
+.mian-text {
+  margin-top: 0;
+}
+
+.main-photo {
+  max-width: 400px;
+  align-self: center;
+}
+
+.card-list {
+  display: flex;
+  margin: 10px 10px;
+  overflow-x: scroll;
+}
+
+.card {
+  margin: 0px 10px;
+  width: 175px;
+  font-size: 12px;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.grey {
+  color: rgb(92, 91, 91);
+}
+.bold {
+  font-weight: 800;
+}
+.card > img {
+  width: 100%;
+}
+
+.card-star {
+  height: 11px;
+}
+
+.open-spot {
+  position: absolute;
+  left: 6px;
+  top: 5px;
+  background-color: azure;
+  border-radius: 5px;
+  padding: 5px 10px;
+  font-weight: 800;
+  font-size: .5rem;
+  color: rgb(54, 54, 54);
+}
