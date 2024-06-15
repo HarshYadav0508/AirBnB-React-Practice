@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AirBnB-React-Practice/static/css/main.6bd0fc23.css",
-    "main.js": "/AirBnB-React-Practice/static/js/main.b5662731.js",
+    "main.js": "/AirBnB-React-Practice/static/js/main.ef70de6e.js",
     "static/js/453.3b790273.chunk.js": "/AirBnB-React-Practice/static/js/453.3b790273.chunk.js",
-    "static/media/Group 77.svg": "/AirBnB-React-Practice/static/media/Group 77.b5259edef80b530375f9da1a65bc3d83.svg",
+    "static/media/Group 77.svg": "/AirBnB-React-Practice/static/media/Group 77.df5d99e40240547fea288676b9aa8f28.svg",
     "index.html": "/AirBnB-React-Practice/index.html",
     "main.6bd0fc23.css.map": "/AirBnB-React-Practice/static/css/main.6bd0fc23.css.map",
-    "main.b5662731.js.map": "/AirBnB-React-Practice/static/js/main.b5662731.js.map",
+    "main.ef70de6e.js.map": "/AirBnB-React-Practice/static/js/main.ef70de6e.js.map",
     "453.3b790273.chunk.js.map": "/AirBnB-React-Practice/static/js/453.3b790273.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6bd0fc23.css",
-    "static/js/main.b5662731.js"
+    "static/js/main.ef70de6e.js"
   ]
 }
