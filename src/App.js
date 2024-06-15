@@ -8,13 +8,7 @@ console.log(data);
 function App() {
   const cardElement = data.map( card => <Card
     key = {card.id} 
-    img = {card.coverImg}
-    rating = {card.stats.rating}
-    reviewCount = {card.stats.reviewCount}
-    country = {card.country}
-    title = {card.title}
-    price = {card.price}
-    openSpots = {card.openSpots}
+    {...card}
   />)
 
   return (

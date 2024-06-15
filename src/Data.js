@@ -20,7 +20,7 @@ export const data = [
         price: 125,
         coverImg: "wedding-photography.svg",
         stats: {
-            rating: 5.0,
+            rating: 4.0,
             reviewCount: 30
         },
         location: "Online",
@@ -34,8 +34,8 @@ export const data = [
         price: 50,
         coverImg: "mountain-bike.svg",
         stats: {
-            rating: 5.0,
-            reviewCount: 30
+            rating: 4.5,
+            reviewCount: 15
         },
         location: "Offline",
         country: "USA",
